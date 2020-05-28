@@ -1,0 +1,13 @@
+To create a flex container
+    - display: flex or display: flex-inline
+Container
+    - flex-direction: row | row-reverse | column | column-reverse
+    - flex-wrap: nowrap | wrap | wrap-reverse
+    - justify-content: flex-start | flex-end | center | space-between | space-around
+    etc
+Items
+    - align-self:
+    - order:
+    - flex-grow:
+    - flex-shrink
+    - flex-basis
